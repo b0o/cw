@@ -3,7 +3,7 @@ cw: colorwin
 
 This program is nearly useless: all it does is create a blank window with a
 given color. Use it with a tiling WM like Sway to create blank spaces in your
-layout.
+layout or to hold an empty workspace open.
 
 ### Usage:
 
