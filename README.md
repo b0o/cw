@@ -29,6 +29,6 @@ $ go get -u github.com/b0o/cw
 
 ## License
 
-&copy;2021 Maddison Hellstrom
+&copy;2021-2022 Maddison Hellstrom
 
-Released under the GNU General Public License, version 3 or later.
+Released under the MIT License.
